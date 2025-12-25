@@ -50,7 +50,8 @@
 应用采用模块化设计，核心功能与 UI 分离：
 
 ---
-![architecture.png](architecture.png)
+<img width="16384" height="11365" alt="architecture" src="https://github.com/user-attachments/assets/97e98073-6a95-4c6e-a1c7-7ac326088cb4" />
+
 ---
 
 ### 核心模块说明
